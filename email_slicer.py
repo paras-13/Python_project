@@ -17,3 +17,4 @@ for j in lst:
     print("\nUser {}".format(user))
     print("Usermame: {} ; Domain name: {}".format(d_info[0],d_info[1]))    
     user+=1
+print("Thank you for using this emaol slicer")
