@@ -39,7 +39,7 @@ key = "Y"
 while key=="Y":
     choice  = input("Enter your choice")
     if choice == '1':
-        print("Enter two numbers which you want ro add")
+        print("Enter two numbers which you want to add")
         n1,n2 = int(input("Enter first number")),int(input("Enter second number"))
         print("Sum of the given number is -->",add(n1,n2))
         print("-------------------------------------------------------")
@@ -69,7 +69,7 @@ while key=="Y":
         print("--------------------------------------------------------")
     elif choice == '6':
         print("Enter number whose under root you want to calculate")
-        n1,n2 = int(input("Enter the number")),int(input("Enter the by which you want to find it's root"))
+        n1,n2 = int(input("Enter the number")),int(input("Enter by root which you want to raise it"))
         print("Under root of the given number is -->",ur(n1,n2))
         print("--------------------------------------------------------")
     elif choice.lower() == "exit":
@@ -79,3 +79,4 @@ while key=="Y":
 print()
 
 print("Thank you for using this calculator")
+print("Will be upgrading this calculator in future")
