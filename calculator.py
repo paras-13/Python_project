@@ -1,4 +1,4 @@
-# Program to make a calculator
+# Program for a calculator.
 # Information
 print()
 print("Welcome to the digital calculator")
