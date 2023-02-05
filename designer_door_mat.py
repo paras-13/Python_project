@@ -1,6 +1,6 @@
 # Hackerrank problem
 # Program to print designer carpet.
-# Here row is and odd umber and col is third multiple of row
+# Here row is an odd number and col is third multiple of row
 # For :eg--> 9 27, 11 33, 7 21
 
 row,col = int(input()),int(input())         # Defining variables
