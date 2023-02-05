@@ -3,7 +3,7 @@
 # Here row is an odd number and col is third multiple of row
 # For :eg--> 9 27, 11 33, 7 21
 
-row,col = int(input()),int(input())         # Defining variables
+row,col = int(input('Enter row length')),int(input("Enter column length"))         # Defining variables
 ch = ".|."
 wel = "WELCOME"
 
